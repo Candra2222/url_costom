@@ -1,5 +1,5 @@
 {
-  "name": "generate-shorlink",
+  "name": "url-costom",
   "version": "1.0.0",
   "description": "Secure Link Generator with Random Path",
   "main": "src/index.js",
