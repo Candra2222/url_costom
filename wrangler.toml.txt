@@ -1,4 +1,4 @@
-name = "generate-shorlink"
+name = "url-costom"
 main = "src/index.js"
 compatibility_date = "2026-01-01"
 node_compat = true
