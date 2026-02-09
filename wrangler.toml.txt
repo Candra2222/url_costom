@@ -4,13 +4,13 @@ compatibility_date = "2026-01-01"
 node_compat = true
 
 [vars]
-DOMAINS = "snap-360.sbs,vvip-room.fun"
+DOMAINS = "snap-360.sbs,vvip-room.fun,miuzy.web.id"
 ADMIN_KEY = "sesepuh17"
 
 # Jika pakai KV (uncomment setelah membuat KV di dashboard)
 [[kv_namespaces]]
 binding = "LINKS_DB"
-id = "90ae7a273bd949fba48a2bb5d423e098" # Ganti dengan ID KV Anda
+id = "cbe2c4e33d144ed3aaf8a3cd32b93f77" # Ganti dengan ID KV Anda
 
 [build]
 command = "npx wrangler"
