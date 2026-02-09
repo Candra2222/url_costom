@@ -1,0 +1,17 @@
+{
+  "name": "generate-shorlink",
+  "version": "1.0.0",
+  "description": "Secure Link Generator with Random Path",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail"
+  },
+  "keywords": ["cloudflare-workers", "url-shortener", "affiliate"],
+  "author": "Sesepuh",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
