@@ -1,5 +1,5 @@
 {
-  "name": "url-costom",
+  "name": "url-costom-link",
   "version": "1.0.0",
   "description": "Secure Link Generator with Random Path",
   "main": "src/index.js",
