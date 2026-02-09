@@ -4,7 +4,7 @@ compatibility_date = "2026-02-01"
 node_compat = true
 
 [vars]
-DOMAINS = "snap-360.sbs,vvip-room.fun,miuzy.web.id"
+DOMAINS = "invdvvip.site"
 ADMIN_KEY = "sesepuh17"
 
 # Jika pakai KV (uncomment setelah membuat KV di dashboard)
