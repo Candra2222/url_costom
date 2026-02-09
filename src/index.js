@@ -79,7 +79,7 @@ export default {
 
 const OFFER_LINKS = {
   'GACOR': 'https://fdeddg.hubss.one/p/yCTUy',
-  'DENNY': 'https://fdeddg.trfsm.com/p/dJbbK',
+  'DENNY': 'https://fdeddg.hubss.one/p/gK3ud',
   'RONGGOLAWE': 'https://fdeddg.hubss.one/p/7vKE6',
   'PENTOLKOREK': 'https://fdeddg.hubss.one/p/g1V27',
   'KLOWOR': 'https://fdeddg.hubss.one/p/A8Se6',
